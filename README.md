@@ -187,4 +187,4 @@ For detailed explanation, checkout the [Douban Api V2](https://developers.douban
 
 ## License
 
-[MIT](https://github.com/jeneser/douban/blob/master/LICENSE) Copyright (c) 2017 Jeneser
+[MIT](https://github.com/jeneser/douban/blob/master/LICENSE) Copyright (c) 2017 Monkey
